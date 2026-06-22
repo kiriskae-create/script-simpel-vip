@@ -3,5 +3,5 @@ return {
     ["KODE-BEBAS"]    = 20260625, -- Expired tanggal 25 Juni 2026
     ["PERMANEN"]      = 20991231, -- Expired tahun 2099 (Anggap Permanen)
     ["TESTING"]       = 20260623, -- Expired tanggal 23 Juni 2026
-    ["YUDIAKI2"]      = 20260623  -- Expired tanggal 23 Juni 2026
+
 }
